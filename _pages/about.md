@@ -10,7 +10,7 @@ redirect_from:
 
 I'm a Ph.D student at <a href="https://mli.kaist.ac.kr/" style="color: #000; text-decoration:none">**Machine Learning and Intelligence Lab (MLILAB)**</a> in KAIST, under the supervision of <a href="https://sites.google.com/site/yangeh/" style="color: #000; text-decoration: none;">**Prof. Eunho Yang**</a>.
 
-My research goal is to enhance privacy preservation and robustness in the training and inference of large generative models. Initially, I focused on addressing robustness challenges, such as class imbalance (ICLR'22, ICML'22), structural noise in GNNs (ICML'23), and the dataset bias (NeurIPS'24). Recently, my work has shifted toward advancing privacy-preserving machine learning, where I proposed an efficient private inference method for large diffusion models and large language models. My current research aims to develop an efficient private inference method for large language models.
+My research goal is to enhance privacy preservation and robustness in the training and inference of large generative models. Initially, I focused on addressing robustness challenges, such as class imbalance (ICLR'22, ICML'22), structural noise in GNNs (ICML'23), and the dataset bias (NeurIPS'24). Recently, my work has shifted toward advancing privacy-preserving machine learning, where I proposed an efficient private inference method for large diffusion models (ICLR'26) and large language models. My current research aims to develop an efficient private inference method for large language models.
 
 ## Education
 - **Ph.D.** in Graduate School of AI, <a href="https://www.kaist.ac.kr/en/" style="color: #000; text-decoration: none;">**Korea Advanced Institute of Science and Technology (KAIST)**</a>, <font size="3">Mar. 2021 - Present</font> 
@@ -20,6 +20,11 @@ My research goal is to enhance privacy preservation and robustness in the traini
 - **B.S.** in Mathematics, <a href="https://www.postech.ac.kr/eng/" style="color: #000; text-decoration: none;">**Pohang University of Science and Technology (POSTECH)**</a>, <font size="3">Mar. 2012 - Feb. 2019</font>
 
 ## Conference Publications
+- **Secure Inference for Diffusion Models via Unconditional Scores** \\
+<a href="https://drive.google.com/file/d/1i7o_ajcBi04kGfVB9a5oFPAsjPZGAF5q/view?usp=sharing" style="color: #000; text-decoration: none;">[paper]</a> \\
+<u>Jaeyun Song</u>, Geondo Park, Uigyu Kim, Joonhyung Park, Eunho Yang \\
+<span style="color:darkred">**ICLR**</span> 2026
+
 - **A Simple Remedy for Dataset Bias via Self-Influence: A Mislabeled Sample Perspective** \\
 <a href="https://openreview.net/pdf/bebc6fd94326dd3cf2ebd7e088b9d188ce4508d5.pdf" style="color: #000; text-decoration: none;">[paper]</a> \\
 Yeonsung Jung\*, <u>Jaeyun Song</u>\*, June Yong Yang, Jin-Hwa Kim, Sung-Yub Kim, Eunho Yang (\*: equal contribution) \\
